@@ -9,7 +9,9 @@ Time-Series Models: Implement ARIMA (Autoregressive Integrated Moving Average) a
 
 **Methodology**
 1) Exploratory Data Analysis (EDA):
+   
   Identify trends and correlations in e-commerce sales data.
+  
 2) Machine Learning Techniques:
    
   Linear Regression
@@ -26,4 +28,18 @@ ARIMA and SARIMA models to discern seasonality and trends.
 
 Mean Absolute Error (MAE),
 Root Mean Squared Error (RMSE)
+
+**Results:**
+
+Model Performance
+
+Linear Regression: MAE - 17.45, R² - 0.85
+
+Random Forest: MAE - 2.12, R² - 0.53
+
+Gradient Boosting: MAE - 6.90, R² - 0.55
+
+**Discussion:**
+
+The evaluation metrics indicate that Linear Regression achieved the highest R-squared value, signifying a strong correlation between predicted and actual sales. However, Random Forest exhibited the lowest MAE, implying minimal average prediction error. The choice between these models depends on the specific objectives, with Random Forest preferred for precision and Linear Regression for interpretability
 
