@@ -11,12 +11,19 @@ Time-Series Models: Implement ARIMA (Autoregressive Integrated Moving Average) a
 1) Exploratory Data Analysis (EDA):
   Identify trends and correlations in e-commerce sales data.
 2) Machine Learning Techniques:
+   
   Linear Regression
+  
   Random Forest Regressor
+  
   Gradient Boosting Regressor
+  
 3)Time-Series Forecasting:
+
 ARIMA and SARIMA models to discern seasonality and trends.
-Evaluation Metrics
-Mean Absolute Error (MAE)
+
+**Evaluation Metrics**
+
+Mean Absolute Error (MAE),
 Root Mean Squared Error (RMSE)
 
