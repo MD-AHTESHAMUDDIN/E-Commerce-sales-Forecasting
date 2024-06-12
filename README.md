@@ -1,8 +1,10 @@
 # E-Commerce-sales-Forecasting
-**Project Overview**
+**Project Overview:**
+
 In the dynamic landscape of e-commerce, understanding sales trends and predicting future patterns is crucial for strategic growth. In 2019, e-commerce sales in the United States totaled $603 billion, compared to $3.17 billion in retail sales. This project comprehensively analyzes e-commerce sales using advanced Machine Learning (ML) models for forecasting.
 
-**Objectives**
+**Objectives:**
+
 Exploratory Data Analysis (EDA): Reveal insightful patterns and correlations within the dataset.
 Machine Learning Models: Utilize Linear Regression, Random Forest Regressor, Gradient Boosting Regressor.
 Time-Series Models: Implement ARIMA (Autoregressive Integrated Moving Average) and SARIMA (Seasonal ARIMA) to capture temporal patterns and improve prediction accuracy.
@@ -20,7 +22,7 @@ Time-Series Models: Implement ARIMA (Autoregressive Integrated Moving Average) a
   
   Gradient Boosting Regressor
   
-3)Time-Series Forecasting:
+3) Time-Series Forecasting:
 
 ARIMA and SARIMA models to discern seasonality and trends.
 
