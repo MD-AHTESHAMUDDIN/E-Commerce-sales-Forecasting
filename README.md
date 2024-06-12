@@ -1,6 +1,6 @@
 # E-Commerce-sales-Forecasting
-ABSTRACT 
-**In the dynamic landscape of e-commerce, understanding sales trends and predicting future patterns is 
+**ABSTRACT** 
+In the dynamic landscape of e-commerce, understanding sales trends and predicting future patterns is 
 paramount for strategic decision-making and sustained growth. In 2019, a total of $603 billion worth of 
 sales were done via e-commerce in the United States compared to 3.17 billion in retail sales in the United 
 States. The purpose of this study is a comprehensive analysis of e-commerce sales, leveraging state-of-the
@@ -17,4 +17,4 @@ evaluated through rigorous metrics such as Mean Absolute Error (MAE) and Root Me
 The insights gained from this analysis not only facilitate a deeper understanding of historical sales patterns 
 but also provide a reliable foundation for forecasting future trends. The amalgamation of ML methodologies 
 and time-series forecasting techniques in this study serves as a valuable resource for businesses seeking to 
-optimize their operations and anticipate market dynamics in the ever-evolving e-commerce landscape. **
+optimize their operations and anticipate market dynamics in the ever-evolving e-commerce landscape. 
