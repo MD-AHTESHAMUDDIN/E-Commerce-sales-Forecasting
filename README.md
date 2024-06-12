@@ -9,7 +9,7 @@ Exploratory Data Analysis (EDA): Reveal insightful patterns and correlations wit
 Machine Learning Models: Utilize Linear Regression, Random Forest Regressor, Gradient Boosting Regressor.
 Time-Series Models: Implement ARIMA (Autoregressive Integrated Moving Average) and SARIMA (Seasonal ARIMA) to capture temporal patterns and improve prediction accuracy.
 
-**Methodology**
+**Methodology:**
 1) Exploratory Data Analysis (EDA):
    
      Identify trends and correlations in e-commerce sales data.
@@ -26,14 +26,13 @@ Time-Series Models: Implement ARIMA (Autoregressive Integrated Moving Average) a
 
       ARIMA and SARIMA models to discern seasonality and trends.
 
-**Evaluation Metrics**
+**Evaluation Metrics:**
 
-Mean Absolute Error (MAE),
+Mean Absolute Error (MAE)
+
 Root Mean Squared Error (RMSE)
 
 **Results:**
-
-Model Performance
 
 Linear Regression: MAE - 17.45, R² - 0.85
 
