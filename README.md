@@ -6,14 +6,15 @@ In the dynamic landscape of e-commerce, understanding sales trends and predictin
 Exploratory Data Analysis (EDA): Reveal insightful patterns and correlations within the dataset.
 Machine Learning Models: Utilize Linear Regression, Random Forest Regressor, Gradient Boosting Regressor.
 Time-Series Models: Implement ARIMA (Autoregressive Integrated Moving Average) and SARIMA (Seasonal ARIMA) to capture temporal patterns and improve prediction accuracy.
+
 **Methodology**
-Exploratory Data Analysis (EDA):
-Identify trends and correlations in e-commerce sales data.
-Machine Learning Techniques:
-Linear Regression
-Random Forest Regressor
-Gradient Boosting Regressor
-Time-Series Forecasting:
+1) Exploratory Data Analysis (EDA):
+  Identify trends and correlations in e-commerce sales data.
+2) Machine Learning Techniques:
+  Linear Regression
+  Random Forest Regressor
+  Gradient Boosting Regressor
+3)Time-Series Forecasting:
 ARIMA and SARIMA models to discern seasonality and trends.
 Evaluation Metrics
 Mean Absolute Error (MAE)
